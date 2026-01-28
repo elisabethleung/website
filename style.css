@@ -110,6 +110,11 @@ iframe {
 }
 
 /* Menu Links */
+
+.main-menu {
+    text-align: center;
+}
+
 ul.main-menu {
   margin: 0;
   padding: 0;

@@ -112,7 +112,11 @@ iframe {
 /* Menu Links */
 
 .main-menu {
-    text-align: center;
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  gap: 30px; /* spacing between items */
 }
 
 ul.main-menu {

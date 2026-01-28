@@ -111,22 +111,13 @@ iframe {
 
 /* Menu Links */
 
-.main-menu {
+ul.main-menu {
   display: flex;
   justify-content: center;
   list-style: none;
   padding: 0;
   gap: 30px; /* spacing between items */
-  color:#DEB887;
-}
-
-ul.main-menu {
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: left;
-  list-style: none;
+  color:#6495ED;
 }
 ul.main-menu li a {
   margin-right:20px;
@@ -135,12 +126,13 @@ ul.main-menu li a {
   color:#cfd2da;
 }
 ul.main-menu li a:hover {
-  color:#FFFFFF;
+  color:#6495ED;
 }
 ul.main-menu li a.active {
-  color:#FFFFFF;
+  color:#6495ED;
   border-bottom-color:#EF6D3D;
 }
+
 
 /* Utility classes */
 .hide {

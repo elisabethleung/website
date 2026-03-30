@@ -247,4 +247,10 @@ footer {
   display:block;
 }
 
+.content-region {
+  display: none;
+}
 
+#home {
+  display: block;
+}

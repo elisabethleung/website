@@ -167,6 +167,18 @@ footer {
   display: block;
   overflow: hidden;
 }
+
+/* Research page formatting */
+
+.research-heading {
+  text-align: left;
+}
+
+.prior-research-heading {
+  text-align: left;
+  text-decoration: underline;
+}
+
 /* News page formatting */
 .news-post {
   display: flex;
